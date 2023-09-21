@@ -1,0 +1,142 @@
+.slide1{
+  background: url(images/fresh1.jpg);
+  background-repeat:  no-repeat;
+  background-size: cover;
+  height: 80vh;
+  width: 100%;
+  color: white;
+  padding: 20px;
+  padding-top: 100px;
+  border-radius: 15px;
+}
+
+.slide2{
+  background: url(images/fresh2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 80vh;
+  color: white;
+  padding: 20px;
+  padding-top: 100px;
+  border-radius: 15px;
+}
+.slide{
+  margin: 20px;
+ 
+}
+
+h1{
+  font-size: 3.5rem;
+}
+
+.btn{
+  background-color: green;
+  color: white;
+}
+
+
+.card-jsx{
+  margin: 20px;
+}
+
+.card-image{
+  width: 200px;
+  height: 200px;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+.image-container{
+  margin-bottom:20px ;
+  
+}
+
+.supermarket{
+  margin: 10px;
+}
+
+
+ .fresh{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/card2.1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 50px;
+  height: 400px;
+  color: white;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-right: 5pxpx;
+  margin-left: 10px;
+}
+
+.Baked{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/card2.2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  height: 400px;
+  color: white;
+  border-radius: 20px;
+  margin-top: 20px;
+  
+} 
+
+.fluid{
+  margin: 20px;
+  margin-top: 40px;
+}
+.icon{
+  color: green;
+  margin-left: 60px;
+}
+
+.btn .btn3{
+  justify-items: center;
+}
+
+.tea{
+margin: 10px;
+}
+.cofee{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/tea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  height: 500px;
+  color: white;
+  border-radius: 20px;
+  
+}
+
+.junks{
+  margin: 20px;
+  margin-top: 10px;
+}
+
+.btn1{
+  margin-bottom: 10px;
+}
+h7{
+  text-align: center;
+}
+
+.footer{
+  background-color:rgb(154, 147, 148);
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+h3{
+  text-align: center;
+}
+.up p{
+  text-align: center;
+}
+.line{
+  height: 2px;
+  margin-top:10px;
+  color:yellow;
+}
