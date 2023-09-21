@@ -1,6 +1,6 @@
 import image1 from "../images/fresh1.jpg"
 import image2 from "../images/fresh2.jpg"
-import{FaArrowRight} from "react-icons/Fa"
+import{FaArrowRight} from "react-icons/fa"
 
 const Slide = () => {
   return (

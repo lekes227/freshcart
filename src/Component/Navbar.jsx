@@ -1,4 +1,4 @@
-import { FaShoppingCart} from "react-icons/Fa"
+import { FaShoppingCart} from "react-icons/fa"
 
 const Navbar = () => {
   return (
